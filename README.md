@@ -1,7 +1,3 @@
-Based on the content of your `.ipynb` file, here is a well-structured `README.md` for your project:  
-
----
-
 # 📊 Unemployment Rate Prediction Using Machine Learning  
 
 ## 📌 Project Overview  
